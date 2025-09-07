@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-cyte/",
+    "build": "vite build --base=/js_119_sandramomo/",
     "preview": "vite preview"
   },
   "devDependencies": {
